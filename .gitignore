@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Data and trained artifacts
+data/
+datasets/
+*.csv
+*.xls
+*.xlsx
+*.pickle
+*.pkl
+*.h5
+*.npy
+*.db
+*.sqlite3
+
+# Notebooks and local output
+.ipynb_checkpoints/
+output/
+results/
+*.log
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
